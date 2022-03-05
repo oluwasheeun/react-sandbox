@@ -1,7 +1,9 @@
+import UseRefExample1 from './components/UseRefExample1'
+
 function App() {
 	return (
 		<div className='App'>
-			<h1>React sandbox</h1>
+			<UseRefExample1 />
 		</div>
 	)
 }
